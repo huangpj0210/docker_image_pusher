@@ -1,2 +1,2 @@
 alpine
-gcr.io/kaniko-project/executor:latest
+gcr.io/kaniko-project/executor
