@@ -1,1 +1,1 @@
-appleboy/drone-ssh
+curlimages/curl
