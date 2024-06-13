@@ -1,3 +1,6 @@
 alpine
 gcr.io/kaniko-project/executor
 plugins/webhook
+drillster/drone-volume-cache
+node:16.15.1-alpine
+appleboy/drone-scp
